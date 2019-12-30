@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mongoose",
+"productVersion": "1.0",
+"dataUrl": "cosmoscrusher.github.io.data.unityweb",
+"wasmCodeUrl": "cosmoscrusher.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "cosmoscrusher.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.14f1"
+}
